@@ -35,7 +35,7 @@ Welcome to my personal portfolio website! This project showcases my certificatio
 
 ## 🚀 Live Demo
 
-Check out the live site here: [🌐 Visit My Portfolio](https://hi-soul-surfer.github.io/your-repo-name)
+Check out the live site here: [🌐 Visit My Portfolio](https://hi-soul-surfer.github.io/Portfolio-site/)
 
 ## 📫 Contact Me
 
