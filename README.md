@@ -39,7 +39,7 @@ Check out the live site here: [🌐 Visit My Portfolio](https://hi-soul-surfer.g
 
 ## 📫 Contact Me
 
-Feel free to connect on [LinkedIn](https://linkedin.com/in/himanshi-sharma-731/) or drop me an email!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/himanshi-sharma731) or drop me an email!
 
 ---
 
